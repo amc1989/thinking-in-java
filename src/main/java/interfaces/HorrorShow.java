@@ -1,3 +1,5 @@
+package interfaces;
+
 //: interfaces/HorrorShow.java
 // Extending an interface with inheritance.
 
